@@ -39,8 +39,7 @@
 
  ### 三、实现效果演示
 
-小程序手机实现效果演示: <a href ="" >待整理</a>  <br>
-后台管理实现效果演示: <a href ="" >待整理</a>  <br>
+实现效果演示: <a href ="https://www.bilibili.com/video/BV187JQzhErh/" >B站传送门</a>  <br>
 后台管理实现效果演示: <a href ="https://mp.weixin.qq.com/s/tCoygQnXIfYXLC6U0C3_ww" >源码获取</a>  <br>
 个人纯手搓，功能可以添加或者修改。可以添加本人联系方式：18348375641。<br>
 
